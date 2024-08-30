@@ -1,0 +1,28 @@
+﻿RACE,POP_ESTIMATE,POP_ERROR,PERCENT,PERCENT_ERROR
+            White,29144.00,"±2,455",0.54,±3.7
+            Black or African American,11836.00,"±1,675",0.22,±3.2
+            American Indian and Alaska Native,439.00,±513,0.01,±0.9
+                Cherokee tribal grouping,0.00,±35,0.00,±0.1
+                Chippewa tribal grouping,0.00,±35,0.00,±0.1
+                Navajo tribal grouping,0.00,±35,0.00,±0.1
+                Sioux tribal grouping,0.00,±35,0.00,±0.1
+            Asian,1773.00,±781,0.03,±1.4
+                Asian Indian,81.00,±144,0.00,±0.3
+                Chinese,603.00,±658,0.01,±1.2
+                Filipino,104.00,±84,0.00,±0.2
+                Japanese,59.00,±71,0.00,±0.1
+                Korean,33.00,±39,0.00,±0.1
+                Vietnamese,370.00,±362,0.01,±0.7
+                Other Asian,523.00,±305,0.01,±0.6
+            Native Hawaiian and Other Pacific Islander,92.00,±167,0.00,±0.3
+                Chamorro,0.00,±35,0.00,±0.1
+                Native Hawaiian,0.00,±35,0.00,±0.1
+                Samoan,92.00,±167,0.00,±0.3
+                Other Native Hawaiian and Other Pacific Islander,0.00,±35,0.00,±0.1
+            Some Other Race,2417.00,±973,0.05,±1.8
+            White and Black or African American,2043.00,"±1,852",0.04,±3.3
+            White and American Indian and Alaska Native,368.00,±164,0.01,±0.3
+            White and Asian,169.00,±150,0.00,±0.3
+            White and Some Other Race,5203.00,"±1,428",0.10,±2.5
+            Black or African American and American Indian and Alaska Native,10.00,±17,0.00,±0.1
+            Black or African American and Some Other Race,126.00,±153,0.00,±0.3
