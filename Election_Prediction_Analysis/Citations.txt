@@ -1,0 +1,4 @@
+Elections: https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/
+
+DowJ: https://www.investing.com/indices/us-30-historical-data
+Apple: https://finance.yahoo.com/quote/AAPL/history/
